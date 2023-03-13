@@ -1,0 +1,16 @@
+ul{
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+header{
+  align-items: center;
+  justify-content: space-between;
+}
+img{
+  width: 100%;
+  object-fit: cover;
+}
+*{
+  box-sizing: border-box;
+}
